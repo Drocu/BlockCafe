@@ -80,9 +80,12 @@ img {
 }
 @media (min-width:768px) {
     .header__texto {
-        margin-top: 20rem;
+        margin-top: 15rem;
     }
     
+}
+.barra{
+    padding-top: 4rem;
 }
 
 @media (min-width: 768px) {
@@ -179,4 +182,10 @@ img {
 .widget-curso__label,
 .widget-curso__info {
     font-size: 2rem;
+}
+
+.footer {
+    background-color: var(--negro);
+    padding-bottom: 3rem;
+    margin-top: 4rem;
 }
